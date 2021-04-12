@@ -7,3 +7,13 @@
 
 ## 온라인 코드 리뷰 과정
 * [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/nextstep-step/nextstep-docs/tree/master/codereview)
+
+
+# 기능목록
+
+- 사다리타기 게임 참여자 입력 기능
+- 최대 사다리 높이 입력 기능
+- 사다리 생성기능
+  |-----|     |-----|
+-
+
